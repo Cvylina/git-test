@@ -12,7 +12,8 @@ public class GitTest {
         System.out.println("pull 1");
         System.out.println("SSH push");
         System.out.println("SSH -git");
-
+        System.out.println("36");
+        System.out.println("终于到pull了");
 
 
     }
